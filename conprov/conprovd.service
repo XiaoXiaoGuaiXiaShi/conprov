@@ -1,0 +1,12 @@
+[Unit]
+Description=ConProv service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/conprovd
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

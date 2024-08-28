@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "maps.h": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "compare": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "memory_resource": "c",
+        "string_view": "c",
+        "algorithm": "c",
+        "random": "c",
+        "limits": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "type_traits": "c",
+        "tuple": "c",
+        "bpf_helpers.h": "c",
+        "typeinfo": "c",
+        "inode.h": "c",
+        "prov_struct.h": "c",
+        "array": "c",
+        "utility": "c",
+        "types.h": "c"
+    }
+}
